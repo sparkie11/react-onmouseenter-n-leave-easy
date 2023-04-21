@@ -1,0 +1,9 @@
+.luffy {
+  background-color: yellow;
+  height: 400px;
+  width: 100%;
+}
+
+.luffy button {
+  padding: 10px;
+}
